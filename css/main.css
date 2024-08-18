@@ -1,9 +1,7 @@
 /**
  * =================================================================== 
  *
- *  Kards v1.0 Main Stylesheet
- *  url: styleshout.com
- *  03-01-2016
+ *
  *  ------------------------------------------------------------------
  *  TOC:
  *  01. webfonts and iconfonts
@@ -2491,7 +2489,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 footer {
-	padding-top: 2rem;
+	padding-top: 3rem;
 	padding-bottom: 3rem;
 	font-size: 1.4rem;
 	font-family: "poppins-regular", sans-serif;
